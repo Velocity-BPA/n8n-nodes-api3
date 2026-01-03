@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="40" fill="#4F46E5"/>
+  <g fill="#FFFFFF">
+    <!-- API3 Logo - Stylized -->
+    <path d="M128 40L48 96v64l80 56 80-56V96L128 40zm0 24l52 36v44l-52 36-52-36v-44l52-36z"/>
+    <text x="128" y="145" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#FFFFFF">API3</text>
+  </g>
+</svg>
